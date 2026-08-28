@@ -1,2 +1,3 @@
-# DeltaXCli-v1.0
-By Δx Studio's CLI.
+# DeltaXCli-v1.0-alpha1.2
+Copyright: Δx Studio.
+By the Δx Studio's Cli.
